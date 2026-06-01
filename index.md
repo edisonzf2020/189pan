@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/edisonzf2020/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/edisonzf2020/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/edisonzf2020/189pan)
 
-**最后更新:** 2026-06-01 14:27:58 CST
+**最后更新:** 2026-06-02 03:06:26 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/edisonzf2020/189pan/actions)
-- 📋 [查看最新运行](https://github.com/edisonzf2020/189pan/actions/runs/26738914687)
+- 📋 [查看最新运行](https://github.com/edisonzf2020/189pan/actions/runs/26775868307)
 - 🏠 [返回项目主页](https://github.com/edisonzf2020/189pan)
 - ⚙️ [手动触发签到](https://github.com/edisonzf2020/189pan/actions/workflows/main.yml)
 
@@ -16,7 +16,7 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2026-06-01 14:27:59
+- **启动时间**: 2026-06-02 03:06:27
 - **账户数量**: 1 个
 
 ## 账户1
@@ -27,7 +27,7 @@
 
 ---
 ## 执行统计
-- **结束时间**: 2026-06-01 14:28:04
-- **运行时长**: 4.74 秒
+- **结束时间**: 2026-06-02 03:06:31
+- **运行时长**: 3.54 秒
 
 ✅ **所有账户处理完成！**
